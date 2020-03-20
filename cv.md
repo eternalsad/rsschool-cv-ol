@@ -86,3 +86,10 @@ int main()
 #### Experience
     No real industrial code experience besides Javascript Course from HTMLacademy which I started recently, homeworks and university project  
 	to which I did small contribution and I do not want to take credit for.
+
+#### Education
+1. Data Structures and Algorhitms (University lectures + MIT 6.006)
+2. Object Oriented programming on Java
+
+#### English 
+    I have studied English in High School, passed IELTS with score of 7 out of 9.  
