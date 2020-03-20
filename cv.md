@@ -83,3 +83,6 @@ int main()
 		cout << a[i] << ' ';
 }
 ```
+#### Experience
+    No real industrial code experience besides Javascript Course from HTMLacademy which I started recently, homeworks and university project  
+	to which I did small contribution and I do not want to take credit for.
